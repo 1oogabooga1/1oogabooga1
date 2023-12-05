@@ -10,7 +10,7 @@ Here you can find things, that i've done yet:
 -
 [Here i realized black bishops's movements](https://github.com/1oogabooga1/games_oop_javafx)
 -
-Some statistic from mine below:
+Some statistics from mine below:
 -
 ![Github stats](https://github-readme-stats.vercel.app/api?username=1oogabooga1&hide=stars,prs,issues,contribs)
 
