@@ -51,11 +51,12 @@
 ---
 
 ### 🧩 LeetCode Highlights
+> 🀄 *“To master great things, practice small things well.”*
+> — inspired by Confucian discipline
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=1oogabooga1E&theme=dark)
+🧩 From April to July 2025 I solved LeetCode problems daily, earning 3 badges for consistency and problem-solving growth.
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/1oogabooga1)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/1oogabooga1)
 ---
 
 ### 🧠 What I'm Exploring Next
