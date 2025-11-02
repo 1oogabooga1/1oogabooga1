@@ -11,9 +11,8 @@
 - 🌱 Currently improving my skills in **Spring Boot**, **REST APIs**, and **multithreading**
 - 🤖 Fascinated by **machine learning**, **neural networks**, and how they can be applied in real-world systems
 - 🧩 Solid understanding of **OOP, SOLID principles**, and **design patterns**
-- 🗣️ Languages: Java, SQL, HTML/CSS, a bit of JavaScript
+- 🗣️ Languages: Java, SQL
 - 🎯 Applying to study **IT & AI** at a university in **China 🇨🇳**
-- ⚡ Fun fact: I once tried to teach an AI to recognize movie genres… it ended up recommending “Shrek” as a horror movie. Still counts as progress!
 
 ---
 
@@ -21,7 +20,7 @@
 
 | Category | Technologies |
 |-----------|--------------|
-| **Languages** | Java, SQL, JavaScript |
+| **Languages** | Java, SQL |
 | **Core Skills** | OOP, Collections Framework, Streams API, Exception Handling, Unit Testing |
 | **Frameworks & Libraries** | Spring, Servlets, JSP, Hibernate |
 | **Databases** | PostgreSQL, H2 |
