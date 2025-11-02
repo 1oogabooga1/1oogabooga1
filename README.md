@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Dmitri Dobrydin
 
-🎓 I'm a 20-year-old software developer passionate about backend engineering and Java technologies.  
-💻 I've been studying **Java** for over 2 years, focusing on clean code, OOP, databases, and web development.
+💡 20-year-old **Java developer** passionate about backend engineering and exploring how **neural networks** and **AI** work under the hood.  
+🧠 I’ve been learning **Java** for over 2 years — from algorithms and OOP to web frameworks and databases — and I love turning ideas into working software.
+
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Currently improving my skills in **Spring Boot**, **REST APIs**, and **SQL**
-- 🧩 Interested in **backend architecture**, **data processing**, and **system design**
+- 🌱 Currently improving my skills in **Spring Boot**, **REST APIs**, and **multithreading**
+- 🤖 Fascinated by **machine learning**, **neural networks**, and how they can be applied in real-world systems
+- 🧩 Solid understanding of **OOP, SOLID principles**, and **design patterns**
 - 🗣️ Languages: Java, SQL, HTML/CSS, a bit of JavaScript
-- 📚 Learning Chinese 🇨🇳 — applying to a university in China for an IT degree
-- ⚡ Fun fact: I love exploring how small projects can grow into real products
+- 🎯 Applying to study **IT & AI** at a university in **China 🇨🇳**
+- ⚡ Fun fact: I once tried to teach an AI to recognize movie genres… it ended up recommending “Shrek” as a horror movie. Still counts as progress!
 
 ---
 
@@ -20,6 +22,7 @@
 | Category | Technologies |
 |-----------|--------------|
 | **Languages** | Java, SQL, JavaScript |
+| **Core Skills** | OOP, Collections Framework, Streams API, Exception Handling, Unit Testing |
 | **Frameworks & Libraries** | Spring, Servlets, JSP, Hibernate |
 | **Databases** | PostgreSQL, H2 |
 | **Tools** | Maven, Git, JUnit, Mockito, IntelliJ IDEA |
@@ -47,6 +50,15 @@
 
 ---
 
+### 🧠 What I'm Exploring Next
+
+- 🤝 Combining **Java backend** with **AI-based services** (e.g. TensorFlow or PyTorch APIs)  
+- 🔍 Writing cleaner, more scalable code with **Spring Boot + REST**  
+- ⚙️ Building small ML demos — like recommendation engines or text analysis tools  
+- 💬 Learning Chinese to dive into the tech ecosystem of China  
+
+---
+
 ### 🌐 Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/oogabooga111)
@@ -54,5 +66,9 @@
 
 ---
 
-⭐ *“Keep learning, keep building, and make every line of code meaningful.”*
+> 🧘‍♂️ *“To know yet to think that one does not know is best;  
+> Not to know yet to think that one knows will lead to difficulty.”*  
+> — **Lao Tzu (老子)**
+
+⭐ *“I believe every project — even a small console app — is a step toward building something meaningful.”*
 
