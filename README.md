@@ -50,6 +50,12 @@
 
 ---
 
+### 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/1oogabooga1?theme=dark&font=JetBrains%20Mono)
+
+---
+
 ### 🧠 What I'm Exploring Next
 
 - 🤝 Combining **Java backend** with **AI-based services** (e.g. TensorFlow or PyTorch APIs)  
