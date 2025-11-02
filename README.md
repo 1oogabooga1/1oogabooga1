@@ -50,9 +50,11 @@
 
 ---
 
-### 🧩 LeetCode Stats
+### 🧩 LeetCode Highlights
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/1oogabooga1?theme=dark&font=JetBrains%20Mono)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=1oogabooga1E&theme=dark)
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/1oogabooga1)
 
 ---
 
