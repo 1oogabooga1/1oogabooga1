@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dmitri Dobrydin
+# 👋 Hi, I'm Dmitrii Dobrydin
 
 💡 20-year-old **Java developer** passionate about backend engineering and exploring how **neural networks** and **AI** work under the hood.  
 🧠 I’ve been learning **Java** for over 2 years — from algorithms and OOP to web frameworks and databases — and I love turning ideas into working software.
