@@ -43,7 +43,7 @@
 
 ### 📈 GitHub Stats
 
-![Dmitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=1oogabooga1&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=1oogabooga1&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1oogabooga1&layout=compact&theme=tokyonight)
 
