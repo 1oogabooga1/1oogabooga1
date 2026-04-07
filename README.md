@@ -34,14 +34,6 @@ I enjoy building Spring Boot apps — from UI with Thymeleaf to DB schema versio
 
 ---
 
-### GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=1oogabooga1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1oogabooga1&layout=compact&theme=tokyonight)
-
----
-
 ### LeetCode Highlights
 > *“To master great things, practice small things well.”*
 
