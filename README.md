@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dmitrii Dobrydin
+#  Hi, I'm Dmitrii Dobrydin
 
 Java backend developer • Spring Boot • PostgreSQL/Liquibase • Hibernate/Sql2o • Exploring AI/NN
 
@@ -35,9 +35,6 @@ I enjoy building Spring Boot apps — from UI with Thymeleaf to DB schema versio
 ---
 
 ### LeetCode Highlights
-> *“To master great things, practice small things well.”*
-
-From April to July 2025 I solved LeetCode problems daily, earned 3 badges for consistency and problem-solving growth.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/1oogabooga1)
 
